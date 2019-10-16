@@ -1,0 +1,3 @@
+https://services.odata.org/TripPinRESTierService/(S(hnrgtj2g2bofx0noffhzhg3e))/
+
+(S(hnrgtj2g2bofx0noffhzhg3e))

@@ -1,0 +1,11 @@
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_Trippin\trippin\Trippin\Console\bin\Debug\netcoreapp3.0\console.exe
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_Trippin\trippin\Trippin\Console\bin\Debug\netcoreapp3.0\console.deps.json
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_Trippin\trippin\Trippin\Console\bin\Debug\netcoreapp3.0\console.runtimeconfig.json
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_Trippin\trippin\Trippin\Console\bin\Debug\netcoreapp3.0\console.runtimeconfig.dev.json
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_Trippin\trippin\Trippin\Console\bin\Debug\netcoreapp3.0\console.dll
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_Trippin\trippin\Trippin\Console\bin\Debug\netcoreapp3.0\console.pdb
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_Trippin\trippin\Trippin\Console\obj\Debug\netcoreapp3.0\console.csprojAssemblyReference.cache
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_Trippin\trippin\Trippin\Console\obj\Debug\netcoreapp3.0\console.AssemblyInfoInputs.cache
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_Trippin\trippin\Trippin\Console\obj\Debug\netcoreapp3.0\console.AssemblyInfo.cs
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_Trippin\trippin\Trippin\Console\obj\Debug\netcoreapp3.0\console.dll
+D:\HTL Perg\2019 - 2020\Mobile Computing\_homework\03_Trippin\trippin\Trippin\Console\obj\Debug\netcoreapp3.0\console.pdb
